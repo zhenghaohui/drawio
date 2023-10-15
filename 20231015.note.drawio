@@ -1,9 +1,106 @@
-<mxfile host="app.diagrams.net" modified="2023-10-15T14:57:18.683Z" agent="Mozilla/5.0 (Linux; Android 10; K) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/117.0.0.0 Mobile Safari/537.36" version="22.0.4" etag="0V3b31JyMXObgKPdlZ8B" type="github">
-  <diagram name="第 1 页" id="I1Hxy5iXG8pULUePWWJP">
-    <mxGraphModel>
+<mxfile host="app.diagrams.net" modified="2023-10-15T16:00:36.395Z" agent="Mozilla/5.0 (Linux; Android 10; K) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/117.0.0.0 Mobile Safari/537.36" etag="RzSJus_9nuCG_AOydZBV" version="22.0.4" type="github">
+  <diagram name="架构师vs系统工程师" id="I1Hxy5iXG8pULUePWWJP">
+    <mxGraphModel dx="1240" dy="2331" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="0" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
+        <mxCell id="bu2P-sa15e7JWWCwW76M-34" value="&lt;p style=&quot;line-height: 80%;&quot;&gt;&lt;font style=&quot;font-size: 24px;&quot;&gt;架构师 vs 系统工程师&lt;/font&gt;&lt;/p&gt;" style="whiteSpace=wrap;html=1;rounded=0;strokeColor=#666666;align=center;verticalAlign=top;fontFamily=Helvetica;fontSize=20;fontColor=#333333;fillColor=#FFFFFF;strokeWidth=2;fontStyle=1" vertex="1" parent="1">
+          <mxGeometry x="-240" y="-405" width="910" height="450" as="geometry" />
+        </mxCell>
+        <mxCell id="bu2P-sa15e7JWWCwW76M-3" value="" style="edgeStyle=none;curved=1;orthogonalLoop=1;jettySize=auto;html=1;fontSize=12;startSize=8;endSize=8;" edge="1" parent="1" source="bu2P-sa15e7JWWCwW76M-1" target="bu2P-sa15e7JWWCwW76M-2">
+          <mxGeometry relative="1" as="geometry">
+            <Array as="points">
+              <mxPoint x="60" y="-240" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="bu2P-sa15e7JWWCwW76M-1" value="施工项目经理" style="whiteSpace=wrap;html=1;fontSize=16;fillColor=#f5f5f5;strokeColor=#666666;rounded=1;fontColor=#333333;" vertex="1" parent="1">
+          <mxGeometry y="-280" width="120" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="bu2P-sa15e7JWWCwW76M-7" value="" style="edgeStyle=none;curved=1;orthogonalLoop=1;jettySize=auto;html=1;fontFamily=Helvetica;fontSize=16;fontColor=#333333;startSize=8;endSize=8;" edge="1" parent="1" source="bu2P-sa15e7JWWCwW76M-2" target="bu2P-sa15e7JWWCwW76M-6">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="bu2P-sa15e7JWWCwW76M-2" value="建筑师" style="whiteSpace=wrap;html=1;fontSize=16;fillColor=#f5f5f5;strokeColor=#666666;fontColor=#333333;rounded=1;" vertex="1" parent="1">
+          <mxGeometry y="-200" width="120" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="bu2P-sa15e7JWWCwW76M-11" value="" style="edgeStyle=none;curved=1;orthogonalLoop=1;jettySize=auto;html=1;fontFamily=Helvetica;fontSize=16;fontColor=#333333;startSize=8;endSize=8;" edge="1" parent="1" source="bu2P-sa15e7JWWCwW76M-6" target="bu2P-sa15e7JWWCwW76M-10">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="bu2P-sa15e7JWWCwW76M-6" value="结构工程师" style="whiteSpace=wrap;html=1;fontSize=16;fillColor=#f5f5f5;strokeColor=#666666;fontColor=#333333;rounded=1;" vertex="1" parent="1">
+          <mxGeometry y="-120" width="120" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="bu2P-sa15e7JWWCwW76M-10" value="土木工程师" style="whiteSpace=wrap;html=1;fontSize=16;fillColor=#f5f5f5;strokeColor=#666666;fontColor=#333333;rounded=1;" vertex="1" parent="1">
+          <mxGeometry y="-40" width="120" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="bu2P-sa15e7JWWCwW76M-12" value="规划、管理、协调" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;fontSize=16;fontFamily=Helvetica;fontColor=#333333;" vertex="1" parent="1">
+          <mxGeometry x="130" y="-275" width="150" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="bu2P-sa15e7JWWCwW76M-15" value="" style="edgeStyle=none;curved=1;orthogonalLoop=1;jettySize=auto;html=1;fontFamily=Helvetica;fontSize=16;fontColor=#333333;startSize=8;endSize=8;" edge="1" parent="1" source="bu2P-sa15e7JWWCwW76M-13" target="bu2P-sa15e7JWWCwW76M-14">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="bu2P-sa15e7JWWCwW76M-17" value="" style="edgeStyle=none;curved=1;orthogonalLoop=1;jettySize=auto;html=1;fontFamily=Helvetica;fontSize=16;fontColor=#333333;startSize=8;endSize=8;" edge="1" parent="1" source="bu2P-sa15e7JWWCwW76M-14" target="bu2P-sa15e7JWWCwW76M-16">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="bu2P-sa15e7JWWCwW76M-14" value="架构师" style="whiteSpace=wrap;html=1;fontSize=16;fillColor=#f5f5f5;strokeColor=#666666;fontColor=#333333;rounded=1;" vertex="1" parent="1">
+          <mxGeometry x="290" y="-200" width="120" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="bu2P-sa15e7JWWCwW76M-19" value="" style="edgeStyle=none;curved=1;orthogonalLoop=1;jettySize=auto;html=1;fontFamily=Helvetica;fontSize=16;fontColor=#333333;startSize=8;endSize=8;" edge="1" parent="1" source="bu2P-sa15e7JWWCwW76M-16" target="bu2P-sa15e7JWWCwW76M-18">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="bu2P-sa15e7JWWCwW76M-16" value="架构师&lt;br&gt;&amp;amp; 系统工程师" style="whiteSpace=wrap;html=1;fontSize=16;fillColor=#f5f5f5;strokeColor=#666666;fontColor=#333333;rounded=1;" vertex="1" parent="1">
+          <mxGeometry x="290" y="-120" width="120" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="bu2P-sa15e7JWWCwW76M-18" value="系统工程师" style="whiteSpace=wrap;html=1;fontSize=16;fillColor=#f5f5f5;strokeColor=#666666;fontColor=#333333;rounded=1;" vertex="1" parent="1">
+          <mxGeometry x="290" y="-40" width="120" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="bu2P-sa15e7JWWCwW76M-13" value="软件项目经理" style="whiteSpace=wrap;html=1;rounded=1;strokeColor=#666666;align=center;verticalAlign=middle;fontFamily=Helvetica;fontSize=16;fontColor=#333333;fillColor=#f5f5f5;" vertex="1" parent="1">
+          <mxGeometry x="290" y="-280" width="120" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="bu2P-sa15e7JWWCwW76M-20" value="整体架构设计" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;fontSize=16;fontFamily=Helvetica;fontColor=#333333;" vertex="1" parent="1">
+          <mxGeometry x="145" y="-195" width="120" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="bu2P-sa15e7JWWCwW76M-21" value="详细架构设计" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;fontSize=16;fontFamily=Helvetica;fontColor=#333333;" vertex="1" parent="1">
+          <mxGeometry x="145" y="-115" width="120" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="bu2P-sa15e7JWWCwW76M-22" value="职责抽象共性" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;fontSize=20;fontFamily=Helvetica;fontColor=#333333;fontStyle=1" vertex="1" parent="1">
+          <mxGeometry x="135" y="-340" width="140" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="bu2P-sa15e7JWWCwW76M-23" value="建筑工程角色工作内容" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;fontSize=20;fontFamily=Helvetica;fontColor=#333333;fontStyle=1" vertex="1" parent="1">
+          <mxGeometry x="-214" y="-340" width="220" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="bu2P-sa15e7JWWCwW76M-24" value="建筑外观、平面图&lt;br&gt;立面图、剖面图等" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;fontSize=16;fontFamily=Helvetica;fontColor=#333333;" vertex="1" parent="1">
+          <mxGeometry x="-179" y="-205" width="150" height="50" as="geometry" />
+        </mxCell>
+        <mxCell id="bu2P-sa15e7JWWCwW76M-25" value="施工计划、施工人力材料&lt;br&gt;设备资源管理并把关质量" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;fontSize=16;fontFamily=Helvetica;fontColor=#333333;" vertex="1" parent="1">
+          <mxGeometry x="-204" y="-285" width="200" height="50" as="geometry" />
+        </mxCell>
+        <mxCell id="bu2P-sa15e7JWWCwW76M-26" value="梁柱楼板等承重设计&lt;br&gt;顺序方法材料等施工设计" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;fontSize=16;fontFamily=Helvetica;fontColor=#333333;" vertex="1" parent="1">
+          <mxGeometry x="-204" y="-125" width="200" height="50" as="geometry" />
+        </mxCell>
+        <mxCell id="bu2P-sa15e7JWWCwW76M-27" value="根据施工地土壤情况&lt;br&gt;设计具体的地基结构" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;fontSize=16;fontFamily=Helvetica;fontColor=#333333;" vertex="1" parent="1">
+          <mxGeometry x="-189" y="-45" width="170" height="50" as="geometry" />
+        </mxCell>
+        <mxCell id="bu2P-sa15e7JWWCwW76M-28" value="落地客观条件适配" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;fontSize=16;fontFamily=Helvetica;fontColor=#333333;" vertex="1" parent="1">
+          <mxGeometry x="130" y="-35" width="150" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="bu2P-sa15e7JWWCwW76M-29" value="软件工程角色工作内容" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;fontSize=20;fontFamily=Helvetica;fontColor=#333333;fontStyle=1" vertex="1" parent="1">
+          <mxGeometry x="420" y="-340" width="220" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="bu2P-sa15e7JWWCwW76M-30" value="交付计划、&lt;br&gt;风险管理、团队协作" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;fontSize=16;fontFamily=Helvetica;fontColor=#333333;" vertex="1" parent="1">
+          <mxGeometry x="445" y="-285" width="170" height="50" as="geometry" />
+        </mxCell>
+        <mxCell id="bu2P-sa15e7JWWCwW76M-31" value="整体结构、技术选型&lt;br&gt;指导开发团队按架构施工" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;fontSize=16;fontFamily=Helvetica;fontColor=#333333;" vertex="1" parent="1">
+          <mxGeometry x="430" y="-205" width="200" height="50" as="geometry" />
+        </mxCell>
+        <mxCell id="bu2P-sa15e7JWWCwW76M-32" value="模块划分、接口设计&lt;br&gt;性能规格设计、可靠性设计" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;fontSize=16;fontFamily=Helvetica;fontColor=#333333;" vertex="1" parent="1">
+          <mxGeometry x="420" y="-125" width="220" height="50" as="geometry" />
+        </mxCell>
+        <mxCell id="bu2P-sa15e7JWWCwW76M-33" value="业务对接方案设计" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;fontSize=16;fontFamily=Helvetica;fontColor=#333333;" vertex="1" parent="1">
+          <mxGeometry x="455" y="-35" width="150" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="bu2P-sa15e7JWWCwW76M-35" style="edgeStyle=none;curved=1;orthogonalLoop=1;jettySize=auto;html=1;entryX=1;entryY=0.5;entryDx=0;entryDy=0;fontFamily=Helvetica;fontSize=16;fontColor=#333333;startSize=8;endSize=8;" edge="1" parent="1" source="bu2P-sa15e7JWWCwW76M-34" target="bu2P-sa15e7JWWCwW76M-34">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
       </root>
     </mxGraphModel>
   </diagram>
