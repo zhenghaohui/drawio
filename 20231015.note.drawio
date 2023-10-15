@@ -1,6 +1,6 @@
-<mxfile host="app.diagrams.net" modified="2023-10-15T16:00:36.395Z" agent="Mozilla/5.0 (Linux; Android 10; K) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/117.0.0.0 Mobile Safari/537.36" etag="RzSJus_9nuCG_AOydZBV" version="22.0.4" type="github">
+<mxfile host="app.diagrams.net" modified="2023-10-15T16:18:12.687Z" agent="Mozilla/5.0 (Linux; Android 10; K) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/117.0.0.0 Mobile Safari/537.36" etag="13B9j2Fxs-_YNsS1unqY" version="22.0.4" type="github">
   <diagram name="架构师vs系统工程师" id="I1Hxy5iXG8pULUePWWJP">
-    <mxGraphModel dx="1240" dy="2331" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="0" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+    <mxGraphModel dx="820" dy="1566" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="0" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
@@ -92,8 +92,8 @@
         <mxCell id="bu2P-sa15e7JWWCwW76M-31" value="整体结构、技术选型&lt;br&gt;指导开发团队按架构施工" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;fontSize=16;fontFamily=Helvetica;fontColor=#333333;" vertex="1" parent="1">
           <mxGeometry x="430" y="-205" width="200" height="50" as="geometry" />
         </mxCell>
-        <mxCell id="bu2P-sa15e7JWWCwW76M-32" value="模块划分、接口设计&lt;br&gt;性能规格设计、可靠性设计" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;fontSize=16;fontFamily=Helvetica;fontColor=#333333;" vertex="1" parent="1">
-          <mxGeometry x="420" y="-125" width="220" height="50" as="geometry" />
+        <mxCell id="bu2P-sa15e7JWWCwW76M-32" value="业务需求分析、模块划分&lt;br&gt;接口、性能规格、可靠性设计" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;fontSize=16;fontFamily=Helvetica;fontColor=#333333;" vertex="1" parent="1">
+          <mxGeometry x="415" y="-125" width="230" height="50" as="geometry" />
         </mxCell>
         <mxCell id="bu2P-sa15e7JWWCwW76M-33" value="业务对接方案设计" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;fontSize=16;fontFamily=Helvetica;fontColor=#333333;" vertex="1" parent="1">
           <mxGeometry x="455" y="-35" width="150" height="30" as="geometry" />
